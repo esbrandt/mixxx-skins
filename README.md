@@ -16,8 +16,14 @@ Skin releases are numbered following the target Mixxx version:
 ## File formats
 
 Skins sources are available in:
-* '*.fw.png` = Adobe Fireworks png format. The format the file was originally draw. Recommended for use.
-* '*.psd` = Adobe Photoshop psd format
+* `*.fw.png` = Adobe Fireworks png format. The format the file was originally draw. Recommended for use.
+* `*.psd` = Adobe Photoshop psd format
+
+
+## Creating Skins for Mixxx
+
+* Check the [Artist documentation](http://mixxx.org/wiki/doku.php#artist_documentation) in the Mixxx wiki
+* Share and download skins in the [Mixxx forums] (http://mixxx.org/forums/viewforum.php?f=8)
 
 
 Thanks for reading!
@@ -32,7 +38,7 @@ Thanks for reading!
 
 ## Copyright and license
 
-Copyright (C) 2010-2013 S.Brandt <s.brandt|@|mixxx.org>
+Copyright (C) 2010-2013 S.Brandt
 
 The skins are licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
 http://creativecommons.org/licenses/by-sa/3.0/
@@ -45,6 +51,7 @@ to Share - to copy, distribute and transmit the work
 to Remix - to adapt the work
 
 Under the following conditions:
+
 Attribution - You must attribute the work in the manner specified by the author or licensor
 (but not in any way that suggests that they endorse you or your use of the work).
 A attribution should include the following: The name of the author and/or licensor, 
