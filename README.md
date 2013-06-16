@@ -1,7 +1,7 @@
 mixxx-skins
 ===========
 
-# [Skins for Mixxx](https://github.com/esbrandt/mixxx-skins) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+# [Skins for Mixxx](https://github.com/esbrandt/mixxx-skins)
 
 This repository contains layered Skin source files for [Mixxx](http://mixxx.org), the Free DJ software that gives you everything you need to perform live mixes
 
