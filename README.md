@@ -11,16 +11,16 @@ Mixxx is Free DJ software that gives you everything you need to perform live mix
 
 ## Screenshots
 
-*LateNight skin for Mixxx - source file*
+**LateNight skin for Mixxx - source file**
 ![LateNight skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/LateNight1280x800-WXGA-1.10.0/LateNight1280x800-WXGA-1.10.0-final.png)
 
-*LateNightBlues skin for Mixxx - source file*
+**LateNightBlues skin for Mixxx - source file**
 ![LateNightBlues skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/LateNightBlues1280x800-WXGA-1.10.0/LateNightBlues1280x800-WXGA-1.10.0.final.png)
 
-*Phoney skin for Mixxx - source file*
+**Phoney skin for Mixxx - source file**
 ![Phoney skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/Phoney1600x1200-UXGA-1.9/Phoney1600x1200-UXGA-1.9-final.png)
 
-*PhoneyDark skin for Mixxx - source file*
+**PhoneyDark skin for Mixxx - source file**
 ![PhoneyDark skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/PhoneyDark1600x1200-UXGA-1.9/PhoneyDark1600x1200-UXGA-1.9-final.png)
 
 
