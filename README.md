@@ -3,7 +3,21 @@ mixxx-skins
 
 # [Skins for Mixxx](https://github.com/esbrandt/mixxx-skins)
 
-This repository contains layered Skin source files for [Mixxx](http://mixxx.org), the Free DJ software that gives you everything you need to perform live mixes
+This repository contains layered Skin source files for [Mixxx](https://github.com/mixxxdj/mixxx).
+Perfect as starting point for creating your own skin or modding the existing ones.
+
+Mixxx is Free DJ software that gives you everything you need to perform live mixes.
+
+
+## Screenshots
+
+![LateNight skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/LateNight1280x800-WXGA-1.10.0/LateNight1280x800-WXGA-1.10.0-final.png)
+
+![LateNightBlues skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/LateNightBlues1280x800-WXGA-1.10.0/LateNightBlues1280x800-WXGA-1.10.0.final.png)
+
+![Phoney skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/Phoney1600x1200-UXGA-1.9/Phoney1600x1200-UXGA-1.9-final.png)
+
+![PhoneyDark skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/PhoneyDark1600x1200-UXGA-1.9/PhoneyDark1600x1200-UXGA-1.9-final.png)
 
 
 ## Versioning
