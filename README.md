@@ -34,9 +34,9 @@ Skin releases are numbered following the target Mixxx version:
 ## File formats
 
 Skins sources are available in:
-* `*.fw.png` = Adobe Fireworks png format. The format the file was originally draw. Recommended for use.
+* `*.fw.png` = Adobe Fireworks png format. The format, the file was originally draw in. Recommended for use.
 * `*.psd` = Adobe Photoshop psd format
-
+* `*.png` = Flattened png for previewing
 
 ## Creating Skins for Mixxx
 
