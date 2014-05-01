@@ -11,6 +11,9 @@ Mixxx is Free DJ software that gives you everything you need to perform live mix
 
 ## Screenshots
 
+**Deere skin for Mixxx - source file**
+![Deere skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/Deree1280x800-WXGA-1.11.0/Deree1280x800-WXGA-1.11.0.final.png)
+
 **LateNight skin for Mixxx - source file**
 ![LateNight skin for Mixxx](https://raw.github.com/esbrandt/mixxx-skins/master/LateNight1280x800-WXGA-1.10.0/LateNight1280x800-WXGA-1.10.0-final.png)
 
@@ -34,9 +37,9 @@ Skin releases are numbered following the target Mixxx version:
 ## File formats
 
 Skins sources are available in:
-* `*.fw.png` = Adobe Fireworks png format. The format, the file was originally draw in. Recommended for use.
-* `*.psd` = Adobe Photoshop psd format
-* `*.png` = Flattened png for previewing
+* `*.fw.png` = Adobe Fireworks png format. The original file format. Recommended for maximum editability.
+* `*.psd` = Adobe Photoshop psd format. Exported from Adobe Fireworks while maintaining editability over appearance.
+* `*.png` = Flattened png for previewing.
 
 ## Creating Skins for Mixxx
 
@@ -56,7 +59,7 @@ Thanks for reading!
 
 ## Copyright and license
 
-Copyright (C) 2010-2013 S.Brandt
+Copyright (C) 2010-2014 S.Brandt
 
 The skins are licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported license.
 http://creativecommons.org/licenses/by-sa/3.0/
